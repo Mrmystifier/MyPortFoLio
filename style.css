@@ -879,4 +879,7 @@
         .home .home-content .text-3 {
             font-size: 27px;
         }
+        .home .max-width {
+            padding-top: 250px;
+        }
     }
