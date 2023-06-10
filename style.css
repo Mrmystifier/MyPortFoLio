@@ -870,8 +870,7 @@
         }
         .myImg img {
             width: 80%;
-            transform: scale(1.1);
-            margin-top: 120px;
+            margin-top: 200px;
             margin-left: 350px;
         }
         .home .home-content .text-2 {
