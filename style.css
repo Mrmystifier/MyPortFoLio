@@ -865,10 +865,12 @@
             overflow: hidden;
             object-fit: cover;
             width: 770px;
+            padding-top: 50px;
+            margin-top: 120px;
         }
         .myImg img {
             width: 80%;
-            padding-top: 20px;
+            transform: scale(1.1);
             margin-top: 120px;
             margin-left: 350px;
         }
