@@ -662,6 +662,8 @@
     @media(max-width: 1800px) {
         .myImg img {
             margin-top: 280px;
+            transform: scale(0.9);
+            margin-left: 90px;
         }
     }
     
