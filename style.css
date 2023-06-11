@@ -688,6 +688,14 @@
             font-family: 'Ubuntu', sans-serif;
         }
     }
+@media(max-width: 1270px) {
+        .myImg {
+            right: 50px;
+        }
+        .myImg img {
+            margin-top: 270px;
+        }
+    }
     
     @media(max-width: 1104px) {
         .about .about-content .left img {
